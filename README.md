@@ -87,7 +87,7 @@
 
     6. Finally, we preheat the oven to 160'C and cook nearly 30 minutes.
 
-       ​	***ENJOY YOUR MEAL***
+       git 	***ENJOY YOUR MEAL***
        
     ![carrot cake](https://raw.githubusercontent.com/zehranur-onder/zehranur-onder/master/IMG_2757.JPG )
                                                    
@@ -107,7 +107,7 @@
        |      *BEN*       |      **50**      |    **1.64**     |          **18.59**          | *Sağlıklı kilolu* |
        
        
-       
+       -----merhaba kek tarifi için teşekkürler
        
        
        
